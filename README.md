@@ -1,11 +1,14 @@
-# rM2Mods
-
+# rM2Mods - Extra Templates
+*This is a few extra templates I've made for the reMarkable2, other than the additional templates 
+**THE WORKS THEREIN BELONG TO THEIR RESPECTIVE OWNERS, PLEASE VISIT THE ORIGINAL FOR UP TO DATE SCRIPTS AND THE SUCH AT: https://github.com/DanielRunningen/rM2Mods
 This is a collection of assets and scripts used to personalize a reMarkable2 e-ink tablet.
 
 ## Image Replacement
 
-Different PNG files are used for various parts of the OS, all of which can be found in the device's `/usr/share/remarkable` directory.
-The most common ones to modify are the `sleeping.png` and `suspended.png` images.
+SVGs are what I prefer for the templates as they are easier to modify and smaller in size than PNGs.
+
+*Different PNG files are used for various parts of the OS, all of which can be found in the device's `/usr/share/remarkable` directory.
+*The most common ones to modify are the `sleeping.png` and `suspended.png` images.
 
 [More info for `sleeping.png`](https://github.com/DanielRunningen/rM2Mods/blob/main/assests/sleep/README.md)  
 [More info for `suspended.png`](https://github.com/DanielRunningen/rM2Mods/blob/main/assests/suspension/README.md)
